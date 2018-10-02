@@ -13,7 +13,7 @@ I built this project following the videos of [TeamTreehouse's Bootstrap 4 Basics
  I started using Bootstrap 4 framework.
  
  ### Built With
-* Bootstrap 4
+ Bootstrap 4
 
 ### Coming Soon 
 - [ ]  Recreating the project with HTML5 and CSS3.
